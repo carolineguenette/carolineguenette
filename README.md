@@ -1,4 +1,4 @@
-# 👋 Bonjour, mon nom est Caroline Guénette
+# Bonjour, mon nom est Caroline Guénette
 
 **B Sc. A en génie logiciel | Développeuse Fullstack | Développement Web **
 
@@ -31,6 +31,6 @@ Mon expérience passée comme **sage-femme** m'a apporté des compétences rares
 ---
 
 ### 📫 Me joindre
-- **LinkedIn :** [Caroline Guénette]([https://www.linkedin.com/in/caroline-guenette/)])
+- **LinkedIn :** [Caroline Guénette | [https://www.linkedin.com/in/caroline-guenette/]
 - **Courriel :** cguenette@telus.net
 - **Localisation :** Montréal, QC

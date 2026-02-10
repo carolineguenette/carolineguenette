@@ -1,4 +1,4 @@
-# 👋 Bonjour, je suis Caroline Guénette
+# 👋 Bonjour, mon nom est Caroline Guénette
 
 **B Sc. A en génie logiciel | Développeuse Fullstack | Développement Web **
 

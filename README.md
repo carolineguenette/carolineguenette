@@ -21,7 +21,7 @@ Forte d'un baccalauréat en génie logiciel (Université d'Ottawa) et d'un parco
 Mon expérience passée comme **sage-femme** m'a apporté des compétences rares en développement logiciel :
 - **Rigueur absolue :** Tolérance zéro pour l'erreur dans la documentation et l'exécution.
 - **Gestion du stress :** Capacité à rester lucide et efficace lors de déploiements critiques ou de résolution de bugs complexes.
-- **Analyse de données probantes :** Approche structurée pour résoudre des problèmes techniques complexes.
+- **Analyse de données probantes :** Approche structurée pour résoudre des problèmes techniques complexes, intérêt marqué pour les dernières tendances
 
 ---
 

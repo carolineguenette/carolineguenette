@@ -1,6 +1,6 @@
 # Bonjour, mon nom est Caroline Guénette
 
-**B Sc. A en génie logiciel | Développeuse Fullstack | Systèmes Interactifs & Web **
+**B Sc. A en génie logiciel | Développeuse Fullstack | Systèmes Interactifs & Web**
 
 Titulaire d’un **Baccalauréat en Génie Logiciel (Université d'Ottawa)**, je combine une solide rigueur d'ingénierie et une forte capacité analytique pour concevoir des applications robustes. Mon parcours unique me confère une gestion du stress exceptionnelle et une autonomie éprouvée lors de déploiements ou de résolutions de problèmes complexes sous haute pression.
 

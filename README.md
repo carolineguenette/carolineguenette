@@ -2,7 +2,7 @@
 
 **B Sc. A en génie logiciel | Développeuse Fullstack | Systèmes Interactifs & Web**
 
-Titulaire d’un **Baccalauréat en Génie Logiciel (Université d'Ottawa)**, je combine une solide rigueur d'ingénierie et une forte capacité analytique pour concevoir des applications robustes. Mon parcours unique me confère une gestion du stress exceptionnelle et une autonomie éprouvée lors de déploiements ou de résolutions de problèmes complexes sous haute pression.
+Titulaire d’un **Baccalauréat en Génie Logiciel (Université d'Ottawa)**, je combine une solide rigueur d'ingénierie et une forte capacité analytique pour concevoir des applications robustes. Mon parcours unique me permet d'allier une pensée logique et structurée à une approche profondément humaniste — centrée sur l'expérience utilisateur et l'écoute des besoins. J'en retire une gestion du stress exceptionnelle et une grande autonomie lors de déploiements ou de résolutions de problèmes complexes sous haute pression.
 
 ---
 
@@ -23,15 +23,9 @@ Titulaire d’un **Baccalauréat en Génie Logiciel (Université d'Ottawa)**, je
 ### 🏥 L'impact de mon parcours transverse
 
 Mon bagage antérieur dans le **domaine de la santé (sage-femme)** enrichit directement ma pratique en ingénierie logicielle :
-*   **Rigueur & QA :** Tolérance zéro pour l'erreur, habitude de rédiger et d'exécuter des protocoles de validation stricts.
-*   **Lucidité sous pression :** Capacité à rester calme, structurée et efficace face aux urgences techniques ou aux livrables critiques.
-*   **Approche basée sur les faits :** Habileté à analyser des problématiques complexes selon des données probantes pour poser des diagnostics précis.
-
----
-
-### 📊 Statistiques GitHub
-![Statistiques de Caroline](https://vercel.app)
-![Langages les plus utilisés](https://vercel.app)
+*   **Culture de l'excellence & QA :** Souci constant du détail et engagement envers la qualité du code, combinés à une approche méthodique pour traquer, documenter et résoudre les anomalies.
+*   **Lucidité sous pression :** Capacité à rester calme, structurée et efficace face aux urgences techniques, aux incidents de production ou aux livrables critiques.
+*   **Équilibre analytique et humaniste :** Habileté à poser des diagnostics précis basés sur des données probantes, tout en maintenant une approche inclusive, humaine et collaborative pour résoudre des problématiques complexes.
 
 ---
 

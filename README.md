@@ -8,9 +8,7 @@ Titulaire d’un **Baccalauréat en Génie Logiciel (Université d'Ottawa)**, je
 
 ### 🚀 Ce que je développe en ce moment
 
-*   **Réalité Augmentée (AR) & Simulation :** Développement autonome d'un prototype d'environnement virtuel interactif (C#, Unity, MRTK3) modélisant des mécaniques de manipulation d'objets 3D pour simulateurs (ex. Microsoft HoloLens 2).
 *   **Architecture Multi-Entreprise :** Conception d'une application de **Gestion de stocks multi-entreprise** basée sur **Django (Python)**, optimisant la modélisation des données et la séparation logicielle des environnements clients.
-*   **Solutions Web & ERP :** Création d'écosystèmes web professionnels, de portails clients sécurisés et de pipelines d'automatisation CI/CD (Bash, Linux, Git).
 *   **Applications Mobiles :** Conception complète d'une application de gestion clinique en **React Native / Node.js** dédiée au suivi sécurisé de dossiers patients.
 
 ### 🛠️ Boîte à outils technique
